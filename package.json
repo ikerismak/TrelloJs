@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ikerismak/TrelloJs/issues"
   },
-  "homepage": "https://github.com/ikerismak/TrelloJs#readme"
+  "homepage": "https://github.com/ikerismak/TrelloJs#readme",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
 }
